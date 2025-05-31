@@ -1,3 +1,3 @@
-## Agnostech
+## Agnostech AI
 
-Central organization for all of Agnostech product repositories.
+Agnostech is the connected workspace where better, faster work happens with Human and AI collaboration.
