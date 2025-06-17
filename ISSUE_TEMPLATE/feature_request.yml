@@ -1,0 +1,24 @@
+name: ✨ Feature Request
+description: Propose a new feature or enhancement
+labels: [feature, P2]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      placeholder: What should be added?
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: Why is this feature needed?
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      placeholder: "- [ ] It does this...\n- [ ] It handles that..."
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options: [P0, P1, P2]
